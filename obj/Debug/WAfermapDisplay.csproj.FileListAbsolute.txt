@@ -1,0 +1,8 @@
+c:\users\florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\bin\Debug\WAfermapDisplay.pdb
+c:\users\florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\obj\Debug\WAfermapDisplay.csproj.GenerateResource.Cache
+c:\users\florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\obj\Debug\WAfermapDisplay.pdb
+C:\Users\Florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\obj\Debug\fratte.at.WafermapDisplay.Properties.Resources.resources
+C:\Users\Florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\obj\Debug\fratte.at.WafermapDisplay.Wafermap.resources
+C:\Users\Florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\bin\Debug\WafermapDisplay.dll.config
+C:\Users\Florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\bin\Debug\WafermapDisplay.dll
+C:\Users\Florian\documents\visual studio 2013\Projects\WAfermapDisplay\WAfermapDisplay\obj\Debug\WafermapDisplay.dll
